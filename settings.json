@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Siri-Uum3.aternos.me:26300",
+    "port": 26300,
     "version": "",
     "try-creative": false
   },
